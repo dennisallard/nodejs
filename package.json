@@ -1,6 +1,6 @@
 {
   "name": "@dennisallard/node_examples",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Learning Node per https://www.guru99.com/node-js-modules-create-publish.html#5",
   "main": "/examples/nodejs",
   "scripts": {
